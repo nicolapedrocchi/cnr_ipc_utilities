@@ -1,32 +1,23 @@
-# Prerequisites
-*.d
+*~
+*.kdev4
+*.user
+*.user*
+*.creator
+*.creator*
+*.files*
+*.includes*
+*.qtcreator*
+*.kate-swp
+*.vscode
+*.orig
+*.autosave 
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+doc/
+html/
+latex/
+doc/html
+doc/latex
+build/
+.vscode/
+kdev4/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
